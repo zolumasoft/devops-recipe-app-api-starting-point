@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3
+FROM python:3.9-alpine
 LABEL maintainer="londonappdeveloper.com"
 
 ENV PYTHONUNBUFFERED=1
